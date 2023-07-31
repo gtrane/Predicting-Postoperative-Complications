@@ -1,6 +1,6 @@
 # Predicting-Postoperative-Complications
 
-Worked in a team applying classification modeling in Orange software to predict post-operative complications. Implimented a Random Forest model to minimize hospital costs in identifying a vulnerable patient population.
+Worked in a team and applied classification modeling in Orange software to predict post-operative complications. Implimented a Random Forest model to investigate minimizing hospital costs and identifying a vulnerable patient population.
 <img width="1036" alt="Screenshot 2023-05-04 at 10 03 42 AM" src="https://user-images.githubusercontent.com/116750192/236248579-8efccfd1-cdb1-4665-828b-fb0bd215959f.png">
 
 #### Project Summary
