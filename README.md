@@ -1,5 +1,5 @@
 # Predicting Postoperative Complications
-#### Project Summary
+### Project Summary
 Worked in a team to apply classification modeling in Orange software to predict post-operative complications. My team implimented a Random Forest model to investigate minimizing hospital costs and identifying a vulnerable patient population.
 <img width="1036" alt="Screenshot 2023-05-04 at 10 03 42 AM" src="https://user-images.githubusercontent.com/116750192/236248579-8efccfd1-cdb1-4665-828b-fb0bd215959f.png">
 
@@ -7,5 +7,5 @@ The goal of this project was to determine the best model to classify an occurren
 
 Six classification models were investigated (neural network, logistic regression with regularization, k-nearest neighbors, classification tree, random forest, gradient boosted ensemble) with 10-fold cross validation on training data before determining to move forward with the Random Forest on testing data. We selected the Random Forest model as it obtained a high AUC at 92% in accurately prediciting if a patient was to develop a post-operative complication and obtained the highest sensitvity at 90%, correctly identifying patients with a post-operative complication.
 
-#### Key Takeaways
+### Key Takeaways
 Using this model, a hospital could identify a vulnerable patient population that is at risk of developing a complication following surgery. Implimenations of our model include increased monitoring, follow-up appointments, medication management, and an emphasis on proper patient and caregiver education following surgery. 
